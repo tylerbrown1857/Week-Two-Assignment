@@ -8,6 +8,15 @@ __author__ = 'Your Name'
 #
 # Brief description of what program does.
 
-X = 2
-name = "bob"
-print(X * name)
+# Declare Magic Numbers and Constants
+
+# LOOPCOUNTER = 2
+# name = "bob"
+
+# Write program code here
+
+# Input
+
+# Process
+
+# Output
